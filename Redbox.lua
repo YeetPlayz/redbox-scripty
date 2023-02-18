@@ -1,7 +1,3 @@
--- yes, this script was made with GUI to Lua, now shut up
--- around line 112 is where you put your script
-
-
 local suskey = "o8t5qo9il2lxniq7"
 
 
